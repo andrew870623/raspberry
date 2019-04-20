@@ -1,2 +1,2 @@
-cd ~/raspberry/poor-mans-deep-learning-camera/Camera-Server
+cd ~/raspberry/camera/Camera-Server
 python3 app.py
